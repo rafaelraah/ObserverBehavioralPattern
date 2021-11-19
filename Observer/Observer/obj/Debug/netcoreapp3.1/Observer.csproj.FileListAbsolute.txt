@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Observer\ObserverBehavioralPattern\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache
